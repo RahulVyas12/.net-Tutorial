@@ -11,7 +11,6 @@ using System;
         {
 
         static void Main(string[] args)
-
             {
             int x;
 
