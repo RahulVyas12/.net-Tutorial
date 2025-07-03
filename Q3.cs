@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class Q3
 {
     static void Main()
     {
