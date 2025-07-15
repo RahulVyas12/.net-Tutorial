@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ARRAY.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Q1.cs" />
+    <Compile Include="Q5.cs" />
+    <Compile Include="Q6.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
