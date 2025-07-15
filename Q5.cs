@@ -22,7 +22,7 @@ namespace ConsoleApplication1
             // Converts the input string to an integer and saves in 'n'
             n = Convert.ToInt32(str);
 
-            // A for loop running from 1 to n
+            // for loop running from 1 to n
             for (int i = 1; i <= n; i++)
             {
                 // Multiplies 'fact' by 'i' in each loop to compute factorial
