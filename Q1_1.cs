@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 namespace Tutorial
 {
     internal class Q1_1
-
     {
         static void Main(string[] args)
         {
